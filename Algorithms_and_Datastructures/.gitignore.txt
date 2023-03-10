@@ -1,1 +1,5 @@
 *sol*
+.ipynb_checkpoints/**
+**/*_sol*
+*_sol*
+solutions/**
